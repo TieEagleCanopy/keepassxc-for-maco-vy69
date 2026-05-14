@@ -1,4 +1,4 @@
-# 
+# Enhance KeePassXC for macOS with premium KeePassXC for macOS Helper | two-factor-authentication + auto-fill, the #1 helper. Includes two-factor-authentication and auto-fill for a
 
 
 
